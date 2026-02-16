@@ -1,5 +1,5 @@
-Hello, I'm Sofia  
-Junior data engineer/ML engineer
+ ## Hello, I'm Sofia  
+# Junior data engineer/ML engineer
 
 I have commercial experience as a Analytic, founding discrepancies in the data on hiring/firing employees and developed hypotheses about why these discrepancies arose.
 Open to Internship and Junior DS/ML opportunities.
@@ -27,11 +27,6 @@ ________________________________________________________________________________
 Student at Sberbank School 21 (DS/ML track)  
 College of Programming & Cybersecurity (RTU MIREA)  
 Yandex lyceum (Specialization - Data Science & Computer Vision)
-______________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-## 🎯 **Professional Goal**
-
-To grow as a ML engineer in a professional engineering team, contribute to production-level software and continuously improve my technical expertise.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 📬 **Contact**
