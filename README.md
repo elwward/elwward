@@ -1,5 +1,4 @@
-## Hello, I'm Sofia  
-# Junior data engineer/ML engineer
+# Hello, I'm Sofia — Junior Data Engineer / ML Engineer
 
 I have commercial experience as a Analytic, founding discrepancies in the data on hiring/firing employees and developed hypotheses about why these discrepancies arose.
 Open to Internship and Junior DS/ML opportunities.
