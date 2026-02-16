@@ -12,20 +12,20 @@ ________________________________________________________________________________
 
 🛠 Tech Stack
 
-Languages:
+**Languages:**  
 Python, C++
 
-Databases:
+**Databases:**  
 MySQL, PostgreSQL
 
-Tools & Environment:
+**Tools & Environment:**  
 Linux, Windows, Git, Docker
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 📚 Education
 
-Student at Sberbank School 21 (DS/ML track)
-College of Programming & Cybersecurity (RTU MIREA)
+Student at Sberbank School 21 (DS/ML track)  
+College of Programming & Cybersecurity (RTU MIREA)  
 Yandex lyceum (Specialization - Data Science & Computer Vision)
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
