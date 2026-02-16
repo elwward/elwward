@@ -1,16 +1,40 @@
-## Hi there 👋
+Hello, I'm Sonya
+Junior Data engineer/ML engineer
 
-<!--
-**elwward/elwward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have commercial experience as a Analytic, founding discrepancies in the data on hiring/firing employees and developed hypotheses about why these discrepancies arose.
+Open to Internship and Junior DS/ML opportunities.
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-Here are some ideas to get you started:
+💻 About Me
+ML engineer with hands-on experience building practical software solutions.
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+Languages:
+Python, C++
+
+Databases:
+MySQL, PostgreSQL
+
+Tools & Environment:
+Linux, Windows, Git, Docker
+
+Core Skills:
+
+Algorithms & Data Structures
+structured programming/OOP & STL
+Debugging and code analysis
+Basic performance optimization
+Unit testing fundamentals
+
+📚 Education
+Student at School 21 (C/C++ track)
+College of Programming & Cybersecurity (RTU MIREA)
+Yandex lyceum (Specialization - Data Science & Computer Vision)
+
+🎯 Professional Goal
+To grow as a ML engineer in a professional engineering team, contribute to production-level software and continuously improve my technical expertise.
+
+📬 Contact
+Email: sofiagrigo371@gmail.com
+Telegram: @ellward
