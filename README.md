@@ -18,22 +18,17 @@ MySQL, PostgreSQL
 
 Tools & Environment:
 Linux, Windows, Git, Docker
-
-Core Skills:
-
-Algorithms & Data Structures
-structured programming/OOP & STL
-Debugging and code analysis
-Basic performance optimization
-Unit testing fundamentals
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 📚 Education
-Student at School 21 (C/C++ track)
+Student at Sberbank School 21 (DS/ML track)
 College of Programming & Cybersecurity (RTU MIREA)
 Yandex lyceum (Specialization - Data Science & Computer Vision)
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 🎯 Professional Goal
 To grow as a ML engineer in a professional engineering team, contribute to production-level software and continuously improve my technical expertise.
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 📬 Contact
 Email: sofiagrigo371@gmail.com
