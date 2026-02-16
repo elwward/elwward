@@ -10,7 +10,7 @@ ________________________________________________________________________________
 ML engineer with hands-on experience building practical software solutions.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-🛠 Tech Stack
+## 🛠 **Tech Stack**
 
 **Languages:**  
 Python, C++
@@ -22,19 +22,19 @@ MySQL, PostgreSQL
 Linux, Windows, Git, Docker
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-📚 Education
+## 📚 **Education**
 
 Student at Sberbank School 21 (DS/ML track)  
 College of Programming & Cybersecurity (RTU MIREA)  
 Yandex lyceum (Specialization - Data Science & Computer Vision)
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-🎯 Professional Goal
+## 🎯 **Professional Goal**
 
 To grow as a ML engineer in a professional engineering team, contribute to production-level software and continuously improve my technical expertise.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-📬 Contact
+## 📬 **Contact**
 
 Email: sofiagrigo371@gmail.com
 
