@@ -6,7 +6,15 @@ ________________________________________________________________________________
 
 ## 💻 **About Me**
 
-ML engineer with hands-on experience building practical software solutions.
+I am a Machine Learning enthusiast focused on recommendation systems and practical model development.
+
+Completed the Intro to ML and DL. Computer Vision course at Deep Learning School (MIPT).  
+I have worked with neural network models using PyTorch and have also used libraries such as NumPy, Scikit-learn, Matplotlib, and Pandas.  
+Designed and implemented eight end-to-end ML pipelines:  
+- Four pipelines using classical machine learning methods  
+- Four pipelines applying neural networks in Computer Vision tasks  
+
+Сurrently preparing for the IELTS exam, aiming for a C1 level.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 🛠 **Tech Stack**
