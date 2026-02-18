@@ -20,8 +20,11 @@ ________________________________________________________________________________
 **Languages:**  
 Python, C++
 
+**Python libraries:**
+NumPy, Pandas, PyTorch, Matplotlib
+
 **Databases:**  
-MySQL, PostgreSQL
+SQL(MySQL, PostgreSQL), NoSQL(MongoDB)
 
 **Tools & Environment:**  
 Linux, Windows, Git, Docker
