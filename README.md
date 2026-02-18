@@ -4,7 +4,7 @@ I have commercial experience as a Analytic, founding discrepancies in the data o
 Open to Internship and Junior DS/ML opportunities.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## 💻 **About Me**
+##   **About Me**
 
 I am a Machine Learning enthusiast focused on recommendation systems and practical model development.
 
@@ -15,7 +15,7 @@ Completed **the Intro to ML and DL. Computer Vision course** at Deep Learning Sc
 Сurrently preparing for the IELTS exam, aiming for a C1 level.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## 🛠 **Tech Stack**
+##   **Tech Stack**
 
 **Languages:**  
 Python, C++
@@ -30,14 +30,14 @@ SQL(MySQL, PostgreSQL), NoSQL(MongoDB)
 Linux, Windows, Git, Docker
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## 📚 **Education**
+##   **Education**
 
 Student at Sberbank School 21 (DS/ML track)  
 College of Programming & Cybersecurity (RTU MIREA)  
 Yandex lyceum (Specialization - Data Science & Computer Vision)
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## 📬 **Contact**
+##   **Contact**
 
 Email: sofiagrigo371@gmail.com
 
