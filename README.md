@@ -20,7 +20,7 @@ ________________________________________________________________________________
 **Languages:**  
 Python, C++
 
-**Python libraries:**
+**Python libraries:**  
 NumPy, Pandas, PyTorch, Matplotlib
 
 **Databases:**  
